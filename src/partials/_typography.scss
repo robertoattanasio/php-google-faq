@@ -1,0 +1,20 @@
+/*! Typography */
+
+h1 {
+    color: $darkGray;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h2 {
+    margin-top: 80px;
+    color: $darkGray;
+    text-align: justify;
+}
+
+h2+p {
+    margin-top: 20px;
+    color: $darkGray;
+    font-size: 14px;
+    text-align: justify;
+}
